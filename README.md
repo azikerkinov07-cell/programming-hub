@@ -6,6 +6,7 @@ A simple website about programming and development.
 
 - Programming Languages
 - Operating Systems
+- Browsers
 - Linux Distributions
 - IDEs
 - Development Tools
