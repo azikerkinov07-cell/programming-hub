@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.language-card {
+    text-align: center;
+    border: none;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+header {
+    text-align: center;
+    font-size: 45px;
+    margin: 15px;
+}
+
+footer {
+    text-align: center;
+    font-size: 40px;
+    margin: 30px;
+}
+
+div {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
