@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 - Created the main HTML page.
 - Created the CSS stylesheet.
 - Added a Programming Languages section.
+- Added a Browsers section.
 - Added Operating Systems section.
 - Added Linux Distributions section.
 - Added IDEs section.
