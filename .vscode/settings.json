@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true
+}
