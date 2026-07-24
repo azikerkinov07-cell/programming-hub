@@ -11,7 +11,6 @@ All notable changes to this project will be documented in this file.
 - Added Operating Systems section.
 - Added Linux Distributions section.
 - Added IDEs section.
-- Added Browsers section.
 - Added Tools section.
 - Added Databases section.
 
