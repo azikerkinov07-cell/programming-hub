@@ -8,7 +8,6 @@ A simple website about programming and development.
 - Operating Systems
 - Linux Distributions
 - IDEs
-- Browsers
 - Development Tools
 - Databases
 
